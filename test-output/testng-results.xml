@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-18T09:23:16 IST" name="Default suite" finished-at="2025-08-18T09:23:42 IST" duration-ms="26059">
+    <groups>
+    </groups>
+    <test started-at="2025-08-18T09:23:16 IST" name="Default test" finished-at="2025-08-18T09:23:42 IST" duration-ms="26059">
+      <class name="test.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.HomePageTest@6631f5ca]" started-at="2025-08-18T09:23:16 IST" name="setUp" finished-at="2025-08-18T09:23:39 IST" duration-ms="23768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginToApp()[pri:0, instance:test.HomePageTest@6631f5ca]" started-at="2025-08-18T09:23:39 IST" name="loginToApp" finished-at="2025-08-18T09:23:41 IST" duration-ms="1442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.HomePageTest@6631f5ca]" started-at="2025-08-18T09:23:41 IST" name="tearDown" finished-at="2025-08-18T09:23:42 IST" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
