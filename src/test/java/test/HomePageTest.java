@@ -28,5 +28,11 @@ public class HomePageTest {
 	public void tearDown() {
 		driver.quit();
 	}
+	private void Sysout() {
+		// TODO Auto-generated method stub
+
+		System.out.println("HI I am sanchi");
+		System.out.println("HI I am sanchi punjani");
+	}
 
 }
